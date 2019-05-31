@@ -2,3 +2,4 @@ Nome: Adriano
 Sobrenome: Santos de Almeida
 Idade: 27 anos
 Sexo: Masculino
+Escolaridade: Ensino Superior Completo
